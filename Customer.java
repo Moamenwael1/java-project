@@ -38,16 +38,5 @@ public class Customer {
     public int getCustomerID() {
         return CustomerID;
     }
-    public void readCustomerData(){
-        System.out.println("Please enter your ID");
-        this.CustomerID = scanner.nextInt();
-        this.CustomerID = checkCustomerID(CustomerID);
-        scanner.nextLine();
-        System.out.println("Please enter your name");
-        this.name = scanner.nextLine();
-        System.out.println("Please enter your address");
-        this.address=scanner.nextLine();
-
-    }
-
+    
 }
