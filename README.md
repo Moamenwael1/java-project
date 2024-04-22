@@ -31,7 +31,7 @@
    - Contains details such as customer ID, order ID, products, and total price.
    - Provides methods to retrieve order information, calculate total price, and display order details.
 
-8. ** EcommerceSystem**:
+8. **EcommerceSystem**:
    - Acts as the entry point of the program.
    - Initializes products, prompts the user to enter customer details, allows the user to select products and add them to the cart, and prompts the user to place the order.
    - Displays the order summary or cancellation message based on the user's choice.
