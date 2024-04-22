@@ -1,4 +1,3 @@
-Certainly! Here's a comprehensive summary of all the provided Java classes:
 
 1. **Product Class**:
    - Represents a generic product with attributes such as product ID, name, and price.
